@@ -3,3 +3,9 @@ fwvc.adsafeprotected.com
 config.mapbox.com
 media.complex.com
 pagead2.googlesyndication.com
+chat-e2ee-ig-p42.c10r.facebook.com
+inappcheck-lb.itunes-apple.com.akadns.net
+e69896.dscapi6.akamaiedge.net
+feelinsonice-mvm.l.google.com
+a2047.dscb.akamai.net
+edgedl.me.gvt1.com
