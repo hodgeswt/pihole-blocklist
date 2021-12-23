@@ -20,3 +20,15 @@
 *.jsdelivr.net
 *.trustarc.com
 *.criteo.com
+*app-measurement.com
+*inappcheck.itunes.apple.com
+*firebaselogging-pa.googleapis.com
+*graph.facebook.com
+*.moatads.com
+*.nbcuni.com
+*tr.snapchat.com
+*shopify*
+*2mdn*
+*analytics.twitter.com
+areviewsapp.com
+*api.rlcdn.com
